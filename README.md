@@ -9,8 +9,8 @@ Web application testing, and technologies supporting Web engineering.
 I have uploaded all the practice labs that I solved during this course. These labs provide hands-on exprience focusing mainly on the basics of Web engineering. Anyone who is beginning his/her Web Development journey can benefit from these labs.
 
 ## Lab content:
-Lab_1: Configuring environment, introduction to HTML
-Lab_2: HTML Basics
+* Lab_1: Configuring environment, introduction to HTML
+* Lab_2: HTML Basics
 Lab_3: Advanced HTML
 Lab_4: CSS
 Lab_5: Advanced CSS
