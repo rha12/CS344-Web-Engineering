@@ -1,6 +1,8 @@
 # Task:
 BBC is one of the famous public broadcasting companies. BBC broadcast news in several ways e.g. television, radio, electronic (via internet) etc. They can be accessed over the internet through their web site: www.bbc.com. The layout of this website can be designed using HTML tables. When carefully observing this layout, one can easily identify that this design consists of several nested tables. The tables are highlighted in the image below.
+
 ![alt text](https://github.com/rha12/CS344-Web-Engineering/blob/master/Lab_3/images/task_output.png "task_output")
+
 Design a web page which has similar layout as shown in the above screenshots. Your layout must be based on tables (no divs). You are encouraged to use either internal CSS (using style attribute). You are also encouraged to use different HTML tags we learned so far. 
 ## Hints:
 1.	Feel free to browse BBC’s website and look into its page source to see how the layout is designed.
